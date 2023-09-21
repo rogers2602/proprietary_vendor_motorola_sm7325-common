@@ -1,0 +1,1 @@
+# proprietary_vendor_motorola_sm7325-common
