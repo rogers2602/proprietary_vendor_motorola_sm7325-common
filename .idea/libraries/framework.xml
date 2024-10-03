@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="framework">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proprietary/system/framework/tcmclient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/proprietary/system/framework/WfdCommon.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

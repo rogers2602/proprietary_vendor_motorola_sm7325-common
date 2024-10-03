@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="framework2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proprietary/product/framework/uimservicelibrary.jar!/" />
+      <root url="jar://$PROJECT_DIR$/proprietary/product/framework/uimgbalibrary.jar!/" />
+      <root url="jar://$PROJECT_DIR$/proprietary/product/framework/uimgbamanagerlibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
